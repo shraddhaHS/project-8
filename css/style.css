@@ -741,7 +741,7 @@ footer .box-container .box .map{
  @media(max-width:450px){
     html{
         font-size: 50%;
-       
+        overflow-x:hidden !important ;
      }
 
  }
